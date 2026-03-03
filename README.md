@@ -11,7 +11,7 @@ Meu nome é Thales e sou estudante de Análise e Desenvolvimento de Sistemas na 
 ![](https://github-readme-stats.vercel.app/api?username=Thalessantos7&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Thalessantos7&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalessantos7&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thalessantos7)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Thalessantos7)
 
 ### 🔝 Repositório com maior contribuição:
 ![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
