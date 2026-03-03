@@ -1,5 +1,11 @@
 # 🎯 Sobre mim:
-Meu nome é Thales e sou estudante de Análise e Desenvolvimento de Sistemas na UNIFIP - Patos-PB.
+Olá! Me chamo Thales Santos e sou estudante de Análise e Desenvolvimento de Sistemas na UNIFIP - Patos-PB.
+
+Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando evoluir minhas habilidades e explorar novas ferramentas e boas práticas. Sou motivado por desafios e pela possibilidade de transformar ideias em soluções eficientes através da programação.
+
+Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web e lógica de programação, aplicando na prática tudo o que aprendo na graduação e em cursos complementares.
+
+Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução constante na área de TI. Estou sempre aberto a novos desafios, oportunidades e colaborações que contribuam para meu crescimento profissional.
 
 # 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thalesfmsantos_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thales-santos-361a54371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thalesferreiramontenegro@gmail.com) 
