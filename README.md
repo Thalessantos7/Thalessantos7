@@ -12,3 +12,5 @@ Meu nome é Thales e sou estudante de Análise e Desenvolvimento de Sistemas na 
 
 ### 🔝 Repositório com maior contribuição:
 ![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=radical)
