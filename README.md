@@ -16,4 +16,4 @@ Meu nome é Thales e sou estudante de Análise e Desenvolvimento de Sistemas na 
 ![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## 🚀 Linguagens Mais Usadas
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=draculal)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thalessantos7&theme=radical)
