@@ -20,9 +20,9 @@ Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha e
 ---
 
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats-fast.vercel.app/api/streak?username=Thalessantos7&theme=dracula)
-![](https://github-readme-stats-fast.vercel.app/api?username=Thalessantos7&show_icons=true&theme=dracula)
+![](https://github-readme-stats-fast.vercel.app/api/streak?username=Thalessantos7&theme=radical)
+![](https://github-readme-stats-fast.vercel.app/api?username=Thalessantos7&show_icons=true&theme=radical)
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=dracula)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=radical)
 
-![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=radical&combine_all_yearly_contributions=true)
