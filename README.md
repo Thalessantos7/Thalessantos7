@@ -5,7 +5,7 @@ Tenho grande interesse por tecnologia e desenvolvimento de software, sempre busc
 
 Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web e lógica de programação, aplicando na prática tudo o que aprendo na graduação e em cursos complementares.
 
-Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução constante na área de TI. Estou sempre aberto a novos desafios, oportunidades e colaborações que contribuam para meu crescimento profissional.
+Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução constante na área de TI. Estou sempre atrás de novos desafios, oportunidades e colaborações que contribuam para meu crescimento profissional.
 
 ---
 
