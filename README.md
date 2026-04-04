@@ -1,5 +1,5 @@
 # 🎯 Sobre mim:
-Me chamo Thales Santos e sou estudante de Análise e Desenvolvimento de Sistemas na UNIFIP - Patos-PB.
+Me chamo Thales Santos e sou estudante de ADS - Análise e Desenvolvimento de Sistemas na UNIFIP - Patos-PB.
 
 Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando evoluir minhas habilidades e explorar novas ferramentas e boas práticas. Sou motivado por desafios e pela possibilidade de transformar ideias em soluções eficientes através da programação.
 
