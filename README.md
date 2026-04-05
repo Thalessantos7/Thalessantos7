@@ -3,7 +3,7 @@ Me chamo Thales Santos e sou estudante de ADS - Análise e Desenvolvimento de Si
 
 Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando evoluir minhas habilidades e explorar novas ferramentas e boas práticas. Sou motivado por desafios e pela possibilidade de transformar ideias em soluções eficientes através da programação.
 
-Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web e lógica de programação, aplicando na prática tudo o que aprendo na graduação e em cursos complementares.
+Venho aprofundando meus conhecimentos em desenvolvimento web e lógica de programação, aplicando na prática tudo o que aprendo na graduação e em cursos complementares.
 
 Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução constante na área de TI. Estou sempre atrás de novos desafios, oportunidades e colaborações que contribuam para meu crescimento profissional.
 
