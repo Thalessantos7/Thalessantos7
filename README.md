@@ -1,16 +1,18 @@
-# 🎯 Sobre mim:
-Me chamo Thales Santos e sou estudante de ADS - Análise e Desenvolvimento de Sistemas na UNIFIP - Patos-PB.
+# 🧑🏻‍💻 Sobre mim:
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFIP.
 
-Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando evoluir minhas habilidades e explorar novas ferramentas e boas práticas. Sou motivado por desafios e pela possibilidade de transformar ideias em soluções eficientes através da programação.
+Tenho interesse em desenvolvimento Back-end e venho construindo minha base em programação com Java, Spring Boot, PostgreSQL e Git.
 
-Venho aprofundando meus conhecimentos em desenvolvimento web e lógica de programação, aplicando na prática tudo o que aprendo na graduação e em cursos complementares.
+Gosto de aprender por meio de projetos práticos, aplicando conceitos de lógica de programação, banco de dados e desenvolvimento de software para fortalecer minhas habilidades técnicas.
 
-Aqui no GitHub compartilho projetos, estudos e experimentos que refletem minha evolução constante na área de TI. Estou sempre atrás de novos desafios, oportunidades e colaborações que contribuam para meu crescimento profissional.
+Atualmente, busco minha primeira oportunidade de estágio na área de tecnologia, onde possa adquirir experiência profissional, aprender com desenvolvedores mais experientes e contribuir para projetos reais.
 
 ---
 
 # 🌐 Redes sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thalesfmsantos_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thales-santos-361a54371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thalesferreiramontenegro@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thalesfmsantos_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thales-santos-361a54371)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thalesferreiramontenegro@gmail.com) 
 
 ---
 
