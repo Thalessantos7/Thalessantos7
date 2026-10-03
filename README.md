@@ -29,6 +29,6 @@ Atualmente, busco minha primeira oportunidade de estágio na área de tecnologia
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=Thalessantos7&show_icons=true&theme=radical)
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=radical)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Thalessantos7&layout=compact&theme=radical&v=1)
 
 ![](https://github-contributor-stats.vercel.app/api?username=Thalessantos7&limit=5&theme=radical&combine_all_yearly_contributions=true)
