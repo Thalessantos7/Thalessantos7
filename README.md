@@ -27,7 +27,7 @@
 ## 🧑🏻‍💻 Sobre Mim
 
 - 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**.
-- ☕ Tenho forte interesse em desenvolvimento **Back-end** e venho construindo uma base sólida em **Java, Spring Boot, PostgreSQL, Postman, Docker e Git**.
+- ☕ Tenho forte interesse em desenvolvimento **Back-end** e venho construindo uma base sólida em **Java, Spring Boot, PostgreSQL, Swagger, Postman, Docker e Git**.
 - 💡 Gosto de aprender por meio de **projetos práticos**, aplicando conceitos de lógica de programação, banco de dados e desenvolvimento de software para fortalecer minhas habilidades.
 - 🚀 Atualmente, busco minha **primeira oportunidade de estágio** na área de tecnologia, onde possa adquirir experiência profissional, aprender com desenvolvedores mais experientes e contribuir em projetos reais.
 
@@ -39,8 +39,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
